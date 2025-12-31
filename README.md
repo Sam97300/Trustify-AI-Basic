@@ -117,17 +117,6 @@ http://127.0.0.1:5000
 - 🧪 Better test coverage
 
 ---
-
-## 🎓 Educational Use Case
-
-This project is ideal for:
-- academic mini-projects
-- system design demonstrations
-- understanding verification pipelines
-- gradual AI system evolution
-
----
-
 ## ⚖️ Disclaimer
 
 This tool **does not guarantee factual correctness**.  
@@ -136,17 +125,5 @@ It only verifies claims **against its internal dataset**.
 Do **not** rely on it for real-world decision making.
 
 ---
-
-## 👤 Author
-
-**Sam**  
-Computer Engineering Student  
-Exploring AI, verification systems, and scalable architectures.
-
----
-
-## 📜 License
-
-This project is open for **educational and non-commercial use**.
 
 
