@@ -1,2 +1,1 @@
-# Trustify-AI
-# Trustify-AI-Basic
+# Trustify-AI\
